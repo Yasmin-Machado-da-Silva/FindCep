@@ -1,50 +1,39 @@
-# Welcome to your Expo app 👋
+# 📱 𝓐𝓽𝓲𝓿𝓲𝓭𝓪𝓭𝓮 𝓡𝓮𝓪𝓬𝓽 𝓝𝓪𝓽𝓲𝓿𝓮 🗺️  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE0amk5Zm80ejR4dXRwZHl5OXZtaTFtMHhndXNrZmNyemJuZ2gzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X6w0Zqsk6rd6cSQqKX/giphy.gif" width="300" height="600" />
 
-## Get started
+## 💬 **Descrição do Projeto**
+<details>
+  <summary>
+  ●-━━━━━━━━━━━━━━━━━-●
+  </summary>
+  ❝ O **FindCep** é um aplicativo mobile desenvolvido em **React Native** como projeto de teste, utilizando os tablets do **SENAI**. O foco foi experimentar a construção de uma tela principal com input estilizado, cores personalizadas e um banner ilustrativo. ❞  
+  <br>
+</details>
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🛠️ **Tecnologias Utilizadas** 🔧
+- **Linguagem**: JavaScript  
+- **Framework**: React Native  
+- **Estilização**: StyleSheet  
+- **Editor**: Visual Studio Code  
+- **Dispositivo de Teste**: Tablet SENAI  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+# ✅ **Funcionalidades Implementadas**
 
-In the output, you'll find options to open the app in a
+### 🎨 **Tela Principal**
+- [✅] Criação do layout base  
+- [✅] Input customizado para digitar o CEP  
+- [✅] Alterações de cores no campo de texto  
+- [✅] Inclusão de banner ilustrativo  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+> - 🚫 Sem uso de IA: o projeto foi feito manualmente, com foco em aprendizado.  
+> - 📌 O objetivo foi praticar **React Native para mobile**.  
+> - 💾 Testado em tablets do **SENAI**.  
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Feito com 💜 e dedicação no aprendizado de mobile.  
