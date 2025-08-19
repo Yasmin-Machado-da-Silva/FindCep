@@ -1,6 +1,6 @@
 # 📱 𝓐𝓽𝓲𝓿𝓲𝓭𝓪𝓭𝓮 𝓡𝓮𝓪𝓬𝓽 𝓝𝓪𝓽𝓲𝓿𝓮 🗺️  
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE0amk5Zm80ejR4dXRwZHl5OXZtaTFtMHhndXNrZmNyemJuZ2gzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X6w0Zqsk6rd6cSQqKX/giphy.gif" width="300" height="600" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE0amk5Zm80ejR4dXRwZHl5OXZtaTFtMHhndXNrZmNyemJuZ2gzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X6w0Zqsk6rd6cSQqKX/giphy.gif" width="900" height="400" />
 
 ## 💬 **Descrição do Projeto**
 <details>
